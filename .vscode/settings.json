@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./woche1/amazon_books/scripts"
+    ]
+}
