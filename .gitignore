@@ -1,8 +1,9 @@
 venv
 datasets
+.DS_Store
 __pycache__
 *.pyc
 wiki-data-science
 *.csv
 /dashboard
-/KW3/analytics-dashboard
+# /KW3/analytics-dashboard
