@@ -6,4 +6,4 @@ __pycache__
 wiki-data-science
 *.csv
 /dashboard
-# /KW3/analytics-dashboard
+/KW3/analytics-dashboard
