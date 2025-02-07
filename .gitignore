@@ -8,3 +8,8 @@ wiki-data-science
 /dashboard
 /KW3/analytics-dashboard
 .DS_Store
+
+.idea
+.venv
+.firebase
+something.py
