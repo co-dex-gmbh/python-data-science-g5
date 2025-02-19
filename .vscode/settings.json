@@ -1,5 +1,13 @@
 {
     "python.analysis.extraPaths": [
         "./woche1/amazon_books/scripts"
-    ]
+    ],
+    "azureFunctions.deploySubpath": "KW8/cron_jobs",
+    "azureFunctions.scmDoBuildDuringDeployment": true,
+    "azureFunctions.pythonVenv": ".venv",
+    "azureFunctions.projectLanguage": "Python",
+    "azureFunctions.projectRuntime": "~4",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.projectLanguageModel": 2,
+    "azureFunctions.projectSubpath": "KW8/cron_jobs"
 }
